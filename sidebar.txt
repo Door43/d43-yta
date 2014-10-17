@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[yta:home|Door43 (yta)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-yta|d43-yta repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-yta/archive/master.zip|d43-yta.zip]]
+
+**Recent Changes**
+{{changes>ns = yta}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/yta|Ethnologue data]]
+
